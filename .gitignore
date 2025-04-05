@@ -1,0 +1,15 @@
+# Compiled assets
+/_build/
+/deps/
+/assets/node_modules/
+
+# IDE artifacts
+/.elixir_ls/
+/.vscode/
+
+# Misc
+/cover/
+/tmp/
+*.beam
+*.swp
+.DS_Store
